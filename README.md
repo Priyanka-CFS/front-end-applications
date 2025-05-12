@@ -33,9 +33,6 @@ A smooth, CSS-only infinite scroll animation component designed by **Priyanka**.
 
 **Priyanka** – Passionate front-end developer.
 
-## 🔗 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
